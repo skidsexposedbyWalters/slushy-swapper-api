@@ -1,0 +1,311 @@
+{
+  
+  "Cosmetics": [
+    {
+      "itemtype": "skin",
+      "name": "Aura To Fresh Aura",
+      "icon": "https://static.wikia.nocookie.net/fortnite/images/5/5e/Fresh_Aura_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/512?cb=20210919025042.png",
+      "swapicon": "https://image.fnbr.co/outfit/5cd21c0554152f62c950e5e3/icon.png",
+      "pak": "https://cdn.discordapp.com/attachments/877168909722193933/877178537562505236/pakchunkFreshAura-WindowsClient.pak",
+      "paknumber": "FreshAura"
+    },
+    {
+      "itemtype": "skin",
+      "name": "Harley Quinn",
+      "icon": "https://cdn.discordapp.com/attachments/891773411720851497/896743326726909962/Untitled-2.png",
+      "swapicon": "https://image.fnbr.co/outfit/5e3a8ba665b8c11684cd30ba/icon_192.png",
+      "pak": "https://cdn.discordapp.com/attachments/751157146082738289/854325032209612880/pakchunkDemiQuinn-WindowsClient.pak",
+      "paknumber": "DemiQuinn"
+    },
+    {
+      "itemtype": "skin",
+      "name": "Wildcat To Astral Wildcat",
+      "icon": "https://cdn.discordapp.com/attachments/891773411720851497/896743331374186506/Untitled-11.png",
+      "swapicon": "https://image.fnbr.co/outfit/5f856164a4f55d9a08295af8/icon_192.png",
+      "pak": "https://cdn.discordapp.com/attachments/877168909722193933/877879345153191996/pakchunkAstralWildcat-WindowsClient.pak",
+      "paknumber": "AstralWildcat"
+    },
+    {
+      "itemtype": "skin",
+      "name": "Assault Trooper To Supreme Assault Trooper",
+      "icon": "https://cdn.discordapp.com/attachments/894952933387563059/895299242351013888/output-onlinepngtools_2.png",
+      "swapicon": "https://fortnite-api.com/images/cosmetics/br/cid_015_athena_commando_f/smallicon.png",
+      "pak": "https://cdn.discordapp.com/attachments/884899604938776647/895063943540789288/pakchunk638-WindowsClient.pak",
+      "paknumber": "SupremeTrooper"
+    },
+    {
+      "itemtype": "skin",
+      "name": "Ikonik To Molten Ikonik",
+      "icon": "https://cdn.discordapp.com/attachments/891773411720851497/896744921472565388/Untitled-1.png",
+      "swapicon": "https://image.fnbr.co/outfit/5c77cf5562617938a949f10e/icon_192.png",
+      "pak": "https://cdn.discordapp.com/attachments/877168909722193933/877168972322185246/pakchunkmoltenIkonik-WindowsClient.pak",
+      "paknumber": "MoltenIkonik"
+    },
+    {
+      "itemtype": "skin",
+      "name": "Loserfruit To Molten Loserfruit",
+      "icon": "https://cdn.discordapp.com/attachments/891773411720851497/896753320889319464/Untitled-1.png",
+      "swapicon": "https://image.fnbr.co/outfit/5eef222e518c6a0743ede328/icon_192.png",
+      "pak": "https://cdn.discordapp.com/attachments/751157146082738289/862722987714805760/pakchunkMoltenLoserfruit-WindowsClient.pak",
+      "paknumber": "MoltenLoserfruit"
+    },
+    {
+      "itemtype": "skin",
+      "name": "Ruby To Adidas Ruby",
+      "icon": "https://cdn.discordapp.com/attachments/891773411720851497/896743333521653800/2.png",
+      "swapicon": "https://image.fnbr.co/outfit/5d8b29c6c9f1194a6851979d/icon_192.png",
+      "pak": "https://cdn.discordapp.com/attachments/877168909722193933/877939302330433536/pakchunk280-WindowsClient.pak",
+      "paknumber": "AdidasRuby"
+    },
+    {
+      "itemtype": "skin",
+      "name": "The Reaper To Galaxy Reaper",
+      "icon": "https://cdn.discordapp.com/attachments/891773411720851497/896743334750609418/reaper2_orig.png",
+      "swapicon": "https://image.fnbr.co/outfit/5ab158dfe9847b3170da0331/icon_192.png",
+      "pak": "https://cdn.discordapp.com/attachments/877168909722193933/877183846393741342/pakchunkThereaper-WindowsClient.pak",
+      "paknumber": "GalaxyReaper"
+    },
+    {
+      "itemtype": "skin",
+      "name": "Catalyst To Fire Ninja",
+      "icon": "https://cdn.discordapp.com/attachments/891773411720851497/896756744175382568/Untitled-1.png",
+      "swapicon": "https://image.fnbr.co/outfit/5d42b14a5f111e62dbce60e0/icon.png",
+      "pak": "https://cdn.discordapp.com/attachments/751157146082738289/887782423474106428/pakchunk2002-WindowsClient.pak",
+      "paknumber": "FireNinja"
+    },
+    {
+      "itemtype": "skin",
+      "name": "Wonder To Ghoul Wonder",
+      "icon": "https://cdn.discordapp.com/attachments/891773411720851497/896871457395732530/Untitled-1.png",
+      "swapicon": "https://image.fnbr.co/outfit/5cf8d899105b8302dc361c00/icon_192.png",
+      "pak": "https://cdn.discordapp.com/attachments/891773411720851497/896871789379059742/pakchunkZombieWonder-WindowsClient.pak",
+      "paknumber": "GhoulWonder"
+    },
+    {
+      "itemtype": "skin",
+      "name": "Ikonik To Agent Ikonik",
+      "icon": "https://cdn.discordapp.com/attachments/891773411720851497/896875173553274980/Untitled-1.png",
+      "swapicon": "https://fortnite-api.com/images/cosmetics/br/cid_313_athena_commando_m_kpopfashion/smallicon.png",
+      "pak": "https://cdn.discordapp.com/attachments/891773411720851497/896874748800274452/pakchunkAgentIkonik-WindowsClient.pak",
+      "paknumber": "AgentIkonik"
+    },
+    {
+      "itemtype": "skin",
+      "name": "double agent Hush To Summer Hush",
+      "icon": "https://cdn.discordapp.com/attachments/891773411720851497/896877685303820338/Untitled-1.png",
+      "swapicon": "https://static.wikia.nocookie.net/fortnite_gamepedia/images/3/35/Ghost_Hush.png/revision/latest/scale-to-width-down/120?cb=20200619181739",
+      "pak": "https://cdn.discordapp.com/attachments/751157146082738289/863494490686095380/pakchunkSummerHush-WindowsClient.pak",
+      "paknumber": "SummerHush"
+    },
+    {
+      "itemtype": "skin",
+      "name": "catwoman To adidas catwoman",
+      "icon": "https://media.discordapp.net/attachments/867830211357704243/913491950362038353/unknown_2.png",
+      "swapicon": "https://static.wikia.nocookie.net/fortnite/images/2/24/Catwoman_Comic_Book_Outfit_%28Featured_Default%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/185?cb=20210811173013",
+      "pak": "https://cdn.discordapp.com/attachments/867830211357704243/911680968643993710/pakchunkAdidasCatwoman-WindowsClient.pak",
+      "paknumber": "AdidasCatwoman"
+    },
+    {
+      "itemtype": "background",
+      "name": "Season 14 To Clean Background",
+      "icon": "https://cdn.discordapp.com/attachments/894585104066809866/894588710455214090/wp5882269.png",
+      "swapicon": "https://cdn.discordapp.com/attachments/835221031932395520/848640150292135956/unknown.png",
+      "pak": "https://cdn.discordapp.com/attachments/884899604938776647/894650077056995358/pakchunk793-WindowsClient.pak",
+      "paknumber": "Clean"
+    },
+    {
+      "itemtype": "background",
+      "name": "Season 14 To Skyscrapper",
+      "icon": "https://cdn.discordapp.com/attachments/894585104066809866/894589399726178304/5503c12391704393361d5b39138c1c61.png",
+      "swapicon": "https://cdn.discordapp.com/attachments/835221031932395520/848640150292135956/unknown.png",
+      "pak": "https://cdn.discordapp.com/attachments/884899604938776647/894648464061907014/pakchunk415-WindowsClient.pak",
+      "paknumber": "SkyScrapper"
+    },
+    {
+      "itemtype": "background",
+      "name": "Season 14 To CustomBackgroundForCollin",
+      "icon": "https://media.discordapp.net/attachments/851096435973160980/908404303390179368/Collin_dein_ding.jpg?width=1202&height=676",
+      "swapicon": "https://media.discordapp.net/attachments/851096435973160980/908404303390179368/Collin_dein_ding.jpg?width=1202&height=676",
+      "pak": "https://cdn.discordapp.com/attachments/851096435973160980/908436458174574633/pakchunkCustomBackgroundForCollin-WindowsClient.pak",
+      "paknumber": "CustomBackgroundForCollin"
+    },
+    {
+      "itemtype": "skin",
+      "name": "Renegade Raider To Nike Renegade Raider",
+      "icon": "https://cdn.discordapp.com/attachments/867830211357704243/913491612716396584/unknown_1.png",
+      "swapicon": "https://static.wikia.nocookie.net/fortnite/images/6/60/Renegade_Raider_%28Old_Icon%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/512?cb=20210829181614",
+      "pak": "https://cdn.discordapp.com/attachments/913829484728307763/913833203901530182/pakchunkNikeRenegadeRaider-WindowsClient.pak",
+      "paknumber": "NikeRenegadeRaider"
+    },
+    {
+      "itemtype": "skin",
+      "name": "ikonik To logitech ikonik",
+      "icon": "https://cdn.discordapp.com/attachments/911698812488269864/911960110329368606/logitech_ikonik_logo-removebg-preview.png",
+      "swapicon": "https://progameguides.com/wp-content/uploads/2019/04/fortnite-ikonik-icon-png-300x300.png",
+      "pak": "https://cdn.discordapp.com/attachments/906519612080922665/911963016667463710/pakchunkLogitechIkonik-WindowsClient.pak",
+      "paknumber": "Logitech ikonik"
+    },
+    {
+      "itemtype": "skin",
+      "name": "ikonik To gucci ikonik",
+      "icon": "https://cdn.discordapp.com/attachments/851096435973160980/911966385888976966/unknown-removebg-preview.png",
+      "swapicon": "https://progameguides.com/wp-content/uploads/2019/04/fortnite-ikonik-icon-png-300x300.png",
+      "pak": "https://cdn.discordapp.com/attachments/911698812488269864/911962326289219665/pakchunkGucciIkonik-WindowsClient.pak",
+      "paknumber": "gucci ikonik"
+    },
+    {
+      "itemtype": "skin",
+      "name": "Dare To Blue Dare",
+      "icon": "https://cdn.discordapp.com/attachments/867830211357704243/911968468046327868/unknown__1_-removebg-preview.png",
+      "swapicon": "https://progameguides.com/wp-content/uploads/2019/06/fortnite-skin-dare-icon-300x300.png",
+      "pak": "https://cdn.discordapp.com/attachments/867830211357704243/911967381830631455/pakchunkDare-WindowsClient.pak",
+      "paknumber": "Blue Dare"
+    },
+    {
+      "itemtype": "skin",
+      "name": "ark To grey and Red Ark",
+      "icon": "https://cdn.discordapp.com/attachments/867830211357704243/911974018884698112/unknown__2_-removebg-preview.png",
+      "swapicon": "https://progameguides.com/wp-content/uploads/2019/04/fortnite-ark-icon-png-300x300.png",
+      "pak": "https://cdn.discordapp.com/attachments/867830211357704243/911971717520429066/pakchunkblackgreyark-WindowsClient.pak",
+      "paknumber": "redark"
+    },
+    {
+      "itemtype": "skin",
+      "name": "Red knight To Female black knight",
+      "icon": "https://cdn.discordapp.com/attachments/851096435973160980/912014667533152296/73CF8359-A8F9-4FB3-B3F7-BA3E55C5D2D8-removebg-preview.png",
+      "swapicon": "https://static.wikia.nocookie.net/fortnite/images/1/10/Red_Knight_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/185?cb=20180607171028",
+      "pak": "https://cdn.discordapp.com/attachments/851096435973160980/912013188516683836/pakchunkFemaleBK-WindowsClient.pak",
+      "paknumber": "Female Blackknight"
+    },
+    {
+      "itemtype": "background",
+      "name": "season 14 To Winter 2020",
+      "icon": "https://media.discordapp.net/attachments/867830211357704243/913449566681055262/T_BP14_Lobby.png?width=1352&height=676",
+      "swapicon": "https://media.discordapp.net/attachments/867830211357704243/913450044009631794/unknown.png?width=1352&height=676",
+      "pak": "https://cdn.discordapp.com/attachments/867830211357704243/913448954178465822/pakchunkwinter2020-WindowsClient.pak",
+      "paknumber": "Winter2020"
+    },
+    {
+      "itemtype": "background",
+      "name": "season 14 To Season17",
+      "icon": "https://cdn.discordapp.com/attachments/814940917148418078/913472349599309864/unknown.png",
+      "swapicon": "https://media.discordapp.net/attachments/867830211357704243/913450044009631794/unknown.png?width=1352&height=676",
+      "pak": "https://cdn.discordapp.com/attachments/846076778681466900/852204608038240266/pakchunk360-WindowsClient.pak",
+      "paknumber": "Season17"
+    },
+    {
+      "itemtype": "skin",
+      "name": "Wildcat to Wildaura cr twitter: _Shadows____",
+      "icon": "https://media.discordapp.net/attachments/913479996801155102/913484791389753454/untitled.png?width=722&height=676",
+      "swapicon": "https://static.wikia.nocookie.net/fortnite_gamepedia/images/3/33/T-Soldier-HID-757-Athena-Commando-F-WildCat-L.png/revision/latest?cb=20201013182302",
+      "pak": "https://cdn.discordapp.com/attachments/751157146082738289/868657697690615818/pakchunkWILDAURA-WindowsClient.pak",
+      "paknumber": "WildAura"
+    },
+    {
+      "itemtype": "skin",
+      "name": "Maven to Nike Maven",
+      "icon": "https://media.discordapp.net/attachments/913829484728307763/913831178476339210/unknown__3_-removebg-preview.png",
+      "swapicon": "https://progameguides.com/wp-content/uploads/2019/04/fortnite-maven-icon-png.png",
+      "pak": "https://cdn.discordapp.com/attachments/913829484728307763/913829540298620958/pakchunkNikeMaven-WindowsClient.pak",
+      "paknumber": "NikeMaven"
+    },
+    {
+      "itemtype": "skin",
+      "name": "ikonik to Epicgames ikonik",
+      "icon": "https://cdn.discordapp.com/attachments/913829484728307763/914090948567379988/unknown-removebg-preview.png",
+      "swapicon": "https://image.fnbr.co/outfit/5c77cf5562617938a949f10e/icon_192.png",
+      "pak": "https://cdn.discordapp.com/attachments/867830211357704243/916020299269541929/pakchunk206-WindowsClient.pak",
+      "paknumber": "Epicgamesikonik"
+    },
+    {
+      "itemtype": "skin",
+      "name": "Nog ops to Blue Ops",
+      "icon": "https://cdn.discordapp.com/attachments/814940917148418078/915578416361791488/unknown__2_-removebg-preview.png",
+      "swapicon": "https://static.wikia.nocookie.net/fortnite_gamepedia/images/7/7d/NogOpsOutfitFeatured.png/revision/latest/scale-to-width-down/300?cb=20180617005657",
+      "pak": "https://cdn.discordapp.com/attachments/851096435973160980/915529938050883624/FortniteGame.pak",
+      "paknumber": "BlueOps"
+    }, 
+{
+      "itemtype": "skin",
+      "name": "Aura to Blue Summer aura",
+      "icon": "https://media.discordapp.net/attachments/867830211357704243/915579610001997844/unknown__1_-removebg-preview.png",
+      "swapicon": "https://static.wikia.nocookie.net/fortnite/images/7/7d/Aura_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/185?cb=20190508132327",
+      "pak": "https://cdn.discordapp.com/attachments/867830211357704243/915540525216583701/FortniteGame.pak",
+      "paknumber": "SummerAura"
+    }, 
+    {
+      "itemtype": "skin",
+      "name": "Aura to Red Summer aura",
+      "icon": "https://cdn.discordapp.com/attachments/814940917148418078/915578891526082580/unknown__3_-removebg-preview.png",
+      "swapicon": "https://static.wikia.nocookie.net/fortnite/images/7/7d/Aura_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/185?cb=20190508132327",
+      "pak": "https://cdn.discordapp.com/attachments/814940917148418078/915578998468259840/pakchunkSummerAura-WindowsClient.pak",
+      "paknumber": "SummerAura"
+    },
+    {
+      "itemtype": "skin",
+      "name": "ikonik to Summer Ikonik",
+
+      "icon": "https://media.discordapp.net/attachments/851096435973160980/916605331226894386/Screenshot_2021-12-03_172647-removebg-preview.png",
+      "swapicon": "https://image.fnbr.co/outfit/5c77cf5562617938a949f10e/icon_192.png",
+      "pak": "https://cdn.discordapp.com/attachments/913829484728307763/916378576364916826/FortniteGame.pak",
+      "paknumber": "Summerikonik"
+    },
+    {
+      "itemtype": "skin",
+      "name": "ikonik to Supreme Ikonik",
+      "icon": "https://cdn.discordapp.com/attachments/913829484728307763/916228831398989824/unknown__5_-removebg-preview_2.png",
+      "swapicon": "https://image.fnbr.co/outfit/5c77cf5562617938a949f10e/icon_192.png",
+      "pak": "https://cdn.discordapp.com/attachments/867830211357704243/916067998454939648/pakchunkSUPREME-WindowsClient.pak",
+      "paknumber": "Supremeikonik"
+    },
+    {
+      "itemtype": "background",
+      "name": "Season 14 To Blue anime",
+      "icon": "https://cdn.discordapp.com/attachments/911692202944630881/918992392777007134/unknown.png",
+      "swapicon": "https://media.discordapp.net/attachments/867830211357704243/913450044009631794/unknown.png?width=1352&height=676",
+      "pak": "https://cdn.discordapp.com/attachments/814940917148418078/916962164391161857/pakchunkAnimePurpleWallpaper-WindowsClient.pak",
+      "paknumber": "BlueAnime"
+   },
+   {
+      "itemtype": "background",
+      "name": "Season 14 To Anime Sunset",
+      "icon": "https://cdn.discordapp.com/attachments/911692202944630881/918991879209635900/unknown.png",
+      "swapicon": "https://media.discordapp.net/attachments/867830211357704243/913450044009631794/unknown.png?width=1352&height=676",
+      "pak": "https://cdn.discordapp.com/attachments/814940917148418078/916972560703422494/pakchunkSunriseBackground-WindowsClient.pak",
+      "paknumber": "AnimeSunSet"
+   },
+   {
+      "itemtype": "skin",
+      "name": "kyra to Offwhite kyra",
+      "icon": "https://cdn.discordapp.com/attachments/867830211357704243/917059354199470150/unknown-removebg-preview.png",
+      "swapicon": "https://static.wikia.nocookie.net/fortnite/images/e/e8/Kyra_-_Outfit_-_Fortnite.png/revision/latest/thumbnail-down/width/200/height/200?cb=20200630083810",
+      "pak": "https://cdn.discordapp.com/attachments/814940917148418078/916977058100437083/FortniteGame.pak",
+      "paknumber": "OffWhiteKyra"
+    },
+    {
+      "itemtype": "skin",
+      "name": "Wonder to Calvin Clein Wonder",
+      "icon": "https://cdn.discordapp.com/attachments/814940917148418078/918630081818161212/IMG_1963.png",
+      "swapicon": "https://static.wikia.nocookie.net/fortnite/images/1/16/Wonder_%28Old%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/185?cb=20210228140559",
+      "pak": "https://cdn.discordapp.com/attachments/867830211357704243/917060509122068530/FortniteGame.pak",
+      "paknumber": "CalvinWonder"
+    },
+    {
+      "itemtype": "skin",
+      "name": "Lace (Both Styles) to QuirkyLace cr:",
+      "icon": "https://cdn.discordapp.com/attachments/911692202944630881/918982710813421588/unknown-removebg-preview.png",
+      "swapicon": "https://static.wikia.nocookie.net/fortnite/images/4/4f/Lace_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/512?cb=20190113093823",
+      "pak": "https://cdn.discordapp.com/attachments/911692202944630881/918979777518506014/pakchunkLaceStyles-WindowsClient.pak",
+      "paknumber": "QuirkyLace"
+    }, 
+    {
+      "itemtype": "background",
+      "name": "Season 14 To Kokichi Background",
+      "icon": "https://cdn.discordapp.com/attachments/911692202944630881/918990761096273930/1280.png",
+      "swapicon": "https://cdn.discordapp.com/attachments/835221031932395520/848640150292135956/unknown.png",
+      "pak": "https://cdn.discordapp.com/attachments/911692202944630881/918990414286032986/FortniteGame.pak",
+      "paknumber": " Kokichi"
+    },
+
+  ]
+}
